@@ -5,6 +5,8 @@ url: "https://just-the-docs.github.io" # the base hostname & protocol for your s
 
 permalink: pretty
 
+title: [The title of your site]
+description: [A short description of your site's purpose]
 exclude:
  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
    - .sass-cache/
