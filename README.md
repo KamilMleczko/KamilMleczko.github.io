@@ -1,4 +1,4 @@
-# Jan Kochanwosski "Na matematyka" - fraszka
+# Jan Kochanowski "Na matematyka" - fraszka
 
 
 Ziemię pomierzył i głębokie morze,
